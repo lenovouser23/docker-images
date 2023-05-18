@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/lenovouser23/docker-images#readme"
 }
+"publishConfig": {
+   "@lenovouser23:registry": "https://npm.pkg.github.com"
+ }
