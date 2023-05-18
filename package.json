@@ -1,0 +1,19 @@
+{
+  "name": "@lenovouser23/docker-images",
+  "version": "1.0.1",
+  "description": "docker images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenovouser23/docker-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenovouser23/docker-images/issues"
+  },
+  "homepage": "https://github.com/lenovouser23/docker-images#readme"
+}
